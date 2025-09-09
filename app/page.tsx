@@ -82,8 +82,8 @@ export default function Home() {
 
   const timeline = [
     {
-      year: "2024",
-      title: "Founder & CEO",
+      year: "2025",
+      title: "Founder",
       company: "DRUPTO CONSULTANTS PRIVATE LIMITED",
       description:
         "Leading innovative IT consulting and AI solutions across India, specializing in enterprise digital transformation.",
@@ -91,25 +91,25 @@ export default function Home() {
     },
     {
       year: "2020-2024",
-      title: "Senior AI Engineer",
+      title: "AI Engineer",
       company: "Enterprise Solutions",
       description:
         "Developed and deployed large-scale machine learning systems, leading cross-functional teams in AI implementation.",
       icon: <Brain className="w-5 h-5" />,
     },
     {
-      year: "2018-2020",
+      year: "2017-2020",
       title: "Full-Stack Developer",
-      company: "Tech Innovations",
+      company: "",
       description:
         "Built scalable web applications and cloud infrastructure, specializing in modern JavaScript frameworks and cloud services.",
       icon: <Code className="w-5 h-5" />,
     },
     {
-      year: "2014-2018",
-      title: "Software Engineer",
-      company: "Digital Solutions",
-      description: "Started career in software development, focusing on backend systems and database optimization.",
+      year: "2014-2017",
+      title: "IT Engineer",
+      company: "",
+      description: "Started career in IT administration, focusing on systems administration and operations.",
       icon: <Award className="w-5 h-5" />,
     },
   ]
@@ -636,11 +636,10 @@ export default function Home() {
                   <ArrowRight className="w-6 h-6 text-primary group-hover:animate-pulse" />
                 </div>
                 <h3 className="text-xl font-bold group-hover:text-primary transition-colors duration-300">
-                  Portal Management
+                  Web Development
                 </h3>
                 <p className="text-muted-foreground leading-relaxed group-hover:text-foreground/80 transition-colors duration-300 text-sm">
-                  Comprehensive management and operation of websites functioning as internet portals, including media
-                  platforms.
+                  Comprehensive development and management of websites functioning as ecommerce portals, media platforms, exam platform.
                 </p>
               </CardContent>
             </Card>
@@ -762,13 +761,13 @@ export default function Home() {
           </div>
 
           <div className="border-t border-border/20 pt-8 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-muted-foreground text-sm">© 2024 Saurabh Chandra. All rights reserved.</p>
+            <p className="text-muted-foreground text-sm">© 2025 Saurabh Chandra. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <span className="text-muted-foreground hover:text-primary transition-colors duration-300 text-sm cursor-pointer">
-                Privacy Policy
+                
               </span>
               <span className="text-muted-foreground hover:text-primary transition-colors duration-300 text-sm cursor-pointer">
-                Terms of Service
+                
               </span>
             </div>
           </div>
