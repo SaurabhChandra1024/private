@@ -571,7 +571,7 @@ export default function Home() {
         <div className="px-6 py-20 max-w-7xl mx-auto relative z-10">
           <div className="text-center mb-16">
             <p className="text-sm text-muted-foreground uppercase tracking-wider mb-4 animate-fade-in">
-              — DRUPTO CONSULTANTS
+              — DRUPTO CONSULTANTS —
             </p>
             <h2 className="text-4xl font-bold mb-8 text-balance text-white hover:bg-gradient-to-r hover:from-purple-400 hover:to-blue-400 hover:bg-clip-text hover:text-transparent transition-all duration-500">
               Leading IT Solutions Provider
@@ -706,7 +706,7 @@ export default function Home() {
                 </li>
                 <li>
                   <span className="text-muted-foreground hover:text-primary transition-colors duration-300 cursor-pointer">
-                    Portal Management
+                    Web Development
                   </span>
                 </li>
               </ul>
