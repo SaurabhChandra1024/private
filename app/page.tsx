@@ -92,7 +92,7 @@ export default function Home() {
     {
       year: "2020-2024",
       title: "AI Engineer",
-      company: "Enterprise Solutions",
+      company: "",
       description:
         "Developed and deployed large-scale machine learning systems, leading cross-functional teams in AI implementation.",
       icon: <Brain className="w-5 h-5" />,
